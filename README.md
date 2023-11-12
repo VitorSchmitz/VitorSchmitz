@@ -1,7 +1,7 @@
 # Eaí, eu sou o Schmitz 👌
 ### Eu sou um estudante do Sesi Senai de São José, estou no 2º ano do ensino médio no curso de Desenvolvimento de sistemas.
 # 😉 Sobre mim:
-Meu nome Vitor Schmitz, eu tenho 15 anos, meus hobbys são jogar video-game, basquete e futebol, mas quero também aprender a cozinhar.
+Meu nome Vitor Schmitz, eu tenho 16 anos, meus hobbys são jogar video-game e futebol, mas quero também aprender a cozinhar.
 
 # 🙂 Objetivos e Metas
 - Melhorar meus conhecimentos
@@ -21,7 +21,7 @@ Meu nome Vitor Schmitz, eu tenho 15 anos, meus hobbys são jogar video-game, bas
 - "Psicólogo"
 - Conselheiro
 
-# 😑 Defects
+# 😑 Defeitos
 - Meio Tímido
 - Converso demais
 
