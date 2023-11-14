@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    }
+
+.titulo {
+    font-size: 80px;
+    color: #000000;
+}
+
+.inicial {
+    font-size: 64px;
+    color: #000000;
+}
+
+.fundo {
+    font-size: 32px;
+    font-weight: bold;
+    color: #000000;
+}
+
+.textos {
+    font-size: 32px;
+    font-weight: bold;
+    color: #000000;
+}
+
+#fundo {
+    background-color: #d3d3d3;
+}
